@@ -1,0 +1,5 @@
+{
+  "name": "Password Toolkit: Salter & Generator",
+  "description": "A web application to demonstrate password salting (hashing) and generate strong, customizable passwords. Features an easy copy-to-clipboard functionality for generated passwords. Note: Client-side hashing is for demonstration purposes only.",
+  "requestFramePermissions": []
+}
